@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klg\\Desktop\\parserMarks\\10032026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B28A370B-54E5-47FA-9CA7-EC5948584B16}|10032026\\10032026.vcxproj|C:\\Users\\klg\\Desktop\\parserMarks\\10032026\\10032026\\10032026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B28A370B-54E5-47FA-9CA7-EC5948584B16}|10032026\\10032026.vcxproj|solutionrelative:10032026\\10032026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10032026.cpp",
+              "DocumentMoniker": "C:\\Users\\klg\\Desktop\\parserMarks\\10032026\\10032026\\10032026.cpp",
+              "RelativeDocumentMoniker": "10032026\\10032026.cpp",
+              "ToolTip": "C:\\Users\\klg\\Desktop\\parserMarks\\10032026\\10032026\\10032026.cpp",
+              "RelativeToolTip": "10032026\\10032026.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAQwJ8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T12:19:01.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
